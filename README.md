@@ -156,6 +156,5 @@ Visit `http://localhost:5173`
 2. Create new API key
 3. Copy and add to `.env`
 
-## License
 
-MIT
+
